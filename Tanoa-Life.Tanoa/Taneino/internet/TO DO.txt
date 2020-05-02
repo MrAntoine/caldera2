@@ -1,0 +1,2 @@
+Ajouter cette ligne d'action : 
+onButtonClick = "closeDialog 0; createDialog ""life_moteur"";";
